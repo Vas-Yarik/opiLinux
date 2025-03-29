@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Swap
+[._]*.s[a-v][a-z]
+
+# Session
+Session.vim
+Sessionx.vim
+
+# Temporary
+.netrwhist
+# Auto-generated tag files
+tags
